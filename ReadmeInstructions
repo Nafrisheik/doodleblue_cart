@@ -1,0 +1,6 @@
+This app is created using react.
+So build command is Cl= npm run build.
+
+//How to use.
+
+this app will shift items from loaned to available tabs based on the clicks.
