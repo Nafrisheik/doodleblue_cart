@@ -5,7 +5,7 @@ const items = [
       category: 'AVAILABLE ITEMS',
       price: 15.99,
       img: './images.jfif',
-      desc: `Made from cotton,good as a party wear`,
+      desc: `Made from cotton,good as a party wear,highly durable,wear and tear tested`,
     },
     {
       id: 2,
@@ -29,7 +29,7 @@ const items = [
       category: 'AVAILABLE ITEMS',
       price: 20.99,
       img: './images4.jfif',
-      desc: `Rich look, good for office goers`,
+      desc: `Rich look, good for office goers,highly durable,wear and tear tested`,
     },
     {
       id: 5,
