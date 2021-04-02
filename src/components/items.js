@@ -5,7 +5,7 @@ const items = [
       category: 'AVAILABLE ITEMS',
       price: 15.99,
       img: './images.jfif',
-      desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+      desc: `Made from cotton,good as a party wear`,
     },
     {
       id: 2,
@@ -13,7 +13,7 @@ const items = [
       category: 'AVAILABLE ITEMS',
       price: 13.99,
       img: './images2.jfif',
-      desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+      desc: `best for cold climates, goes well with boots`,
     },
     {
       id: 3,
@@ -21,7 +21,7 @@ const items = [
       category: 'AVAILABLE ITEMS',
       price: 6.99,
       img: './images3.jfif',
-      desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
+      desc: `best for cold climates, goes well with boots`,
     },
     {
       id: 4,
@@ -29,7 +29,7 @@ const items = [
       category: 'AVAILABLE ITEMS',
       price: 20.99,
       img: './images4.jfif',
-      desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
+      desc: `Rich look, good for office goers`,
     },
     {
       id: 5,
@@ -37,7 +37,7 @@ const items = [
       category: 'AVAILABLE ITEMS',
       price: 22.99,
       img: './images5.jfif',
-      desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
+      desc: `Greyish white, full tee, summer wear`,
     },
     {
       id: 6,
@@ -45,7 +45,7 @@ const items = [
       category: 'AVAILABLE ITEMS',
       price: 18.99,
       img: './images6.jfif',
-      desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
+      desc: `Black coat, goes well with shirt or tees`,
     },
     {
       id: 7,
