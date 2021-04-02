@@ -13,7 +13,7 @@ const items = [
       category: 'AVAILABLE ITEMS',
       price: 13.99,
       img: './images2.jfif',
-      desc: `best for cold climates, goes well with boots`,
+      desc: `best for cold climates, goes well with boots,highly durable,wear and tear tested`,
     },
     {
       id: 3,
@@ -21,7 +21,7 @@ const items = [
       category: 'AVAILABLE ITEMS',
       price: 6.99,
       img: './images3.jfif',
-      desc: `best for cold climates, goes well with boots`,
+      desc: `best for cold climates, goes well with boots,highly durable,wear and tear tested`,
     },
     {
       id: 4,
@@ -37,7 +37,7 @@ const items = [
       category: 'AVAILABLE ITEMS',
       price: 22.99,
       img: './images5.jfif',
-      desc: `Greyish white, full tee, summer wear`,
+      desc: `Greyish white, full tee, summer wear,highly durable,wear and tear tested`,
     },
     {
       id: 6,
@@ -45,7 +45,7 @@ const items = [
       category: 'AVAILABLE ITEMS',
       price: 18.99,
       img: './images6.jfif',
-      desc: `Black coat, goes well with shirt or tees`,
+      desc: `Black coat, goes well with shirt or tees,highly durable,wear and tear tested`,
     },
     {
       id: 7,
@@ -53,7 +53,7 @@ const items = [
       category: 'AVAILABLE ITEMS',
       price: 8.99,
       img: './images7.jfif',
-      desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
+      desc: `Bright Red color, good for sporting events,highly durable,wear and tear tested`,
     },
     {
       id: 8,
@@ -61,7 +61,7 @@ const items = [
       category: 'AVAILABLE ITEMS',
       price: 12.99,
       img: './images8.jfif',
-      desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
+      desc: `Military green tee,long lasting, rough use,highly durable,wear and tear tested `,
     },
     {
       id: 9,
@@ -69,7 +69,7 @@ const items = [
       category: 'AVAILABLE ITEMS',
       price: 16.99,
       img: './images9.jfif',
-      desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+      desc: `Best summer wear, good party wear,sky blue shirt,highly durable,wear and tear tested`,
     },
     {
       id: 10,
@@ -77,7 +77,7 @@ const items = [
       category: 'AVAILABLE ITEMS',
       price: 16.99,
       img: './images1.jfif',
-      desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+      desc: `synthetic,highly durable,nice grey t-shirt,highly durable,wear and tear tested`,
     }
   ];
   export default items;
